@@ -43,12 +43,20 @@ Der forschungsstrategische Schwerpunkt Produktion2036 von ARENA2036 konzentriert
     <th colspan="2" style="border: none; font-size: 36px">Geförderte Partner</th>
   </tr>
   <tr>
+    <th>BÄR Automation GmbH</th>
+    <th>Robert Bosch GmbH</th>
+  </tr>
+  <tr>
     <th style="border: none;">
         <a href="http://www.baer-automation.de/"><img src="https://arena2036.de/files/FinaleBilder/03_Partner/Baer.png" style="width:500px;"></a>
     </th>
     <th style="border: none;">
-        <a href="https://www.bosch.com/de/explore-and-experience/connected-world/"><img src="https://arena2036.de/files/FinaleBilder/03_Partner/Bosch.png" style="width:500px;"></a>
+        <a href="https://www.bosch.com/de/"><img src="https://arena2036.de/files/FinaleBilder/03_Partner/Bosch.png" style="width:500px;"></a>
     </th>
+  </tr>
+  <tr>
+    <th>DXC Technology</th>
+    <th>Fraunhofer IPA</th>
   </tr>
   <tr>
     <th style="border: none;">
@@ -59,19 +67,27 @@ Der forschungsstrategische Schwerpunkt Produktion2036 von ARENA2036 konzentriert
     </th>
   </tr>
   <tr>
+    <th>Mercedes-Benz Group AG</th>
+    <th>Pilz</th>
+  </tr>
+  <tr>
     <th style="border: none;">
-        <a href="http://www.dxc.technology/"><img src="https://arena2036.de/files/FinaleBilder/03_Partner/MercedesBenz.png" style="width:500px;"></a>
+        <a href="https://group.mercedes-benz.com/de/?r=dai"><img src="https://arena2036.de/files/FinaleBilder/03_Partner/MercedesBenz.png" style="width:500px;"></a>
     </th>
     <th style="border: none;">
         <a href="http://www.pilz.com/"><img src="https://arena2036.de/files/FinaleBilder/03_Partner/Pilz.png" style="width:500px;"></a>
     </th>
   </tr>
   <tr>
+    <th>TRUMPF</th>
+    <th>Universität Stuttgart - Institut für Steuerungstechnik der Werkzeugmaschinen und Fertigungseinrichtungen (ISW)</th>
+  </tr>
+  <tr>
     <th style="border: none;">
         <a href="http://www.trumpf.com/"><img src="https://arena2036.de/files/FinaleBilder/03_Partner/Trumpf.png" style="width:500px;"></a>
     </th>
     <th style="border: none;">
-        <a href="https://www.uni-stuttgart.de/"><img src="https://arena2036.de/files/FinaleBilder/03_Partner/UniStuttgart.png" style="width:500px;"></a>
+        <a href="https://www.isw.uni-stuttgart.de/"><img src="https://arena2036.de/files/FinaleBilder/03_Partner/UniStuttgart.png" style="width:500px;"></a>
     </th>
   </tr>
   <tr>
@@ -79,6 +95,10 @@ Der forschungsstrategische Schwerpunkt Produktion2036 von ARENA2036 konzentriert
   </tr>
   <tr>
     <th colspan="2" style="border: none; font-size:35px;">Assoziierte Partner</th>
+  </tr>
+  <tr>
+    <th>Balluff GmbH</th>
+    <th>Schaeffler</th>
   </tr>
   <tr>
     <th style="border: none;">
